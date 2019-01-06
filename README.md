@@ -7,9 +7,7 @@ To use this demo first clone the repository. Download the TensorFlow YOLO [model
 
 
 Disclaimer:
-The app is hardcoded for 20 classes and for the tiny-yolo network final output layer. You can check the following code if you want to change this:
-
-https://github.com/natanielruiz/android-yolo/blob/master/app/src/main/java/org/tensorflow/demo/TensorflowClassifier.java
+The app is hardcoded for 20 classes and for the tiny-yolo network final output layer.
 
 The code describes the interpretation of the output.
 
